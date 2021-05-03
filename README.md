@@ -1,3 +1,10 @@
+# What this project is?
+
+I started this project when trying to start an Electron application using React.
+After some tries, I found a tutorial in web and after making it work I decided to turn my sample public to help other developers.
+Feel free to clone it to speed up starting point of your apps.
+I cannot guarantee the script versions are up to date so please, be aware of it and if you can, please alert me for any further needs about updates.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
