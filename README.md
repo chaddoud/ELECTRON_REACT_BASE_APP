@@ -1,9 +1,11 @@
 # What this project is?
 
 I started this project when trying to start an Electron application using React.
-After some tries, I found a tutorial in web and after making it work I decided to turn my sample public to help other developers.
+After some tries, I found a tutorial in web (https://carloslevir.com/aplicacao-desktop-react-electron/ - in portuguese) and after making it work I decided to turn my sample public to help other developers.
 Feel free to clone it to speed up starting point of your apps.
 I cannot guarantee the script versions are up to date so please, be aware of it and if you can, please alert me for any further needs about updates.
+
+Take a look in project.json to check the scripts possibilities to run your project.
 
 # Getting Started with Create React App
 
